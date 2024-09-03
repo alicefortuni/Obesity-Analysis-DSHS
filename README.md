@@ -26,6 +26,9 @@ The data used in this analysis can be found in the "data.csv" file.
   - `lattice`: For creating trellis graphics.
   - `stringr`: For string manipulation.
   - `tidyr`: For tidying data.
+  
+## Documentation
+The article detailing the analysis can be found in the doc folder within this repository.
 
 ## Conclusions
 The analysis shows significant differences in obesity rates by gender, region, and time. These differences highlight the impact of socio-economic, cultural, and lifestyle factors. Further research integrating additional data is needed to develop targeted, evidence-based interventions for global obesity.

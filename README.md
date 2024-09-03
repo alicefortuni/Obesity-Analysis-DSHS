@@ -11,7 +11,8 @@ This project aims to provide a comprehensive analysis of global obesity trends u
 - **Temporal Trends**: Observing how obesity rates have evolved over time.
 
 ## Data
-The analysis utilizes obesity rate data sourced from the World Health Organization. The data used in this analysis can be found in the "data.csv" file.
+The analysis utilizes obesity rate data sourced from the World Health Organization. 
+The data used in this analysis can be found in the "data.csv" file.
 
 ## Tools and Technologies
 

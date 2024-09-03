@@ -368,7 +368,7 @@ for (region_name in regions) {
   region_data <- data_2022_both %>%
     filter(region == region_name) %>%
 #    slice(seq(1, n(), by = 2)) %>%  # campiona ogni 2 paesi
-    mutate(country = str_trunc(country, width = 10, side = "right", ellipsis = "")) # Trunca il nome del paese
+    mutate(country = str_trunc(country, width = 10, side = "right", ellipsis = "")) 
   
   p <- ggplot(region_data, aes(x = reorder(country, value), y = value, fill = country)) +
     geom_bar(stat = "identity") +
